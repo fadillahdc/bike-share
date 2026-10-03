@@ -4,7 +4,7 @@ Proyek analisis data Bike Sharing Dataset (2011–2012) beserta dashboard intera
 
 - **Notebook analisis:** `notebook.ipynb`
 - **Dashboard:** Streamlit + Plotly (interaktif: hover, zoom, filter)
-- **Live dashboard:** https://fdcbike.streamlit.app/
+- **Live dashboard:** https://fdc-bikeshare.streamlit.app/
 
 Visualisasi mengikuti prinsip desain dan integritas data: satu warna aksen (biru) hanya untuk menyorot informasi utama, abu-abu untuk pembanding, judul grafik berupa pesan utama, dan sumbu bar chart selalu dimulai dari nol.
 
